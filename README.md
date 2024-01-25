@@ -1,10 +1,10 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <img alt="madhindu" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
     <h1 align="center">GURU-BOT 2.O</h1>
   </a>
 </p>
-<p align="center">
+<p align="center"> 
 <a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
@@ -111,10 +111,10 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ the repo if you like GURU-BOT.
+- Star ⭐🚩 the repo if you like SK-BOT.
 
 ## CREDITS 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
+<div><button id="boton" type="button">Baileys - By WhiskeySockets &adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 
 <div><button id="boton" type="button">Base  - By FG98F</button></div>
@@ -122,10 +122,10 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 
-## `Main Dev` 
+## `Main Dev🚩` 
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
   
-`GURU-BOT - By Guru322`
+`HINDU🚩-BOT - By Guru322`
 
 ### CONTRIBUTORS
 <a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
@@ -155,3 +155,5 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
+●┼┼──☘️⃝⃪⃕SK कट्टर हिन्दू🚩
+🔱__महाकाल__🕉️__का__🌎__दिवाना__☘️❤‍🩹💥
